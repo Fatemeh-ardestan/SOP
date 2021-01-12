@@ -3,7 +3,7 @@
 <html>
 
 <head>
-<title>انگیزه نامه</title>
+انگیزه نامه
 </head>
 
 <body style="background-color:powderblue;">
@@ -46,6 +46,3 @@
 * با تشکر از استاد عزیز آقای دکتر سید علی رضوی ابراهیمی *
 </p>
 
-</body>
-
-</html>
