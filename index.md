@@ -1,14 +1,17 @@
 <doctype html>
 
 <html>
+  
+<head>
+<title>انگیزه نامه</title>
+</head>
+
 <body style="background-color:powderblue;">
 
 <h1 style="text-align:center;">به نام خدا</h1>
 <p style="text-align:center;">
 انگیزه نامه
-  
 فاطمه اردستانی
-
 متولد 1377/6/3
 </p>
 
@@ -40,4 +43,8 @@
 
 * با تشکر از استاد عزیز آقای دکتر سید علی رضوی ابراهیمی *
 </p>
+
+</body>
+
+</html>
 
