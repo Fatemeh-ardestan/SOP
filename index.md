@@ -1,11 +1,6 @@
 <doctype html>
 
 <html>
-
-<head>
-انگیزه نامه
-</head>
-
 <body style="background-color:powderblue;">
 
 <h1 style="text-align:center;">به نام خدا</h1>
