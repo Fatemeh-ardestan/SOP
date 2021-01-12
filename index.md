@@ -1,8 +1,6 @@
 <doctype html>
 
 <html>
- 
-<body style="background-color:powderblue;">
 
 <h1 style="text-align:center;">به نام خدا</h1>
 <p style="text-align:center;">
